@@ -1,0 +1,14 @@
+.chat-box {
+  height: 300px;
+}
+
+.chat-box-nav {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  background-color: white;
+}
+
+.chat-box-nav-close {
+  color: var(--gray-1);
+}
